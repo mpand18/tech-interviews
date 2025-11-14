@@ -1,4 +1,4 @@
-# Tech Interviews – Backend, Mobile & Leadership
+# Tech Interviews – Backend, Mobile 
 
 Este repositorio contiene un banco de challenges cortos para entrevistas técnicas
 de roles de **Backend**, **Mobile**.
