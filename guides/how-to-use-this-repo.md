@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Tener un conjunto de challenges de entrevista para roles IC2, IC3, IC4, IC5, M1, M2 con las siguientes características:
+Tener un conjunto de challenges de entrevista para roles IC2, IC3, IC4, IC5 con las siguientes características:
 
 - Duración objetivo por sesión ejercicio: **45–60 minutos**
 - Foco en **diseño, razonamiento y comunicación**
